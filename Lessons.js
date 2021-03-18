@@ -13,7 +13,7 @@ let Lessons = [
     "image": './image/math1.jpg',
     "subject" : "Math",
     "location" :"Dubai",
-    "price" : '$150',
+    "price" : '$170',
     "numberofspace" : 5,
 },
 
@@ -22,7 +22,7 @@ let Lessons = [
     "image": './image/art.jpg',
     "subject" : "Art",
     "location" :"Italy",
-    "price" : '$99',
+    "price" : '$109',
     "numberofspace" : 5,
 },
 
